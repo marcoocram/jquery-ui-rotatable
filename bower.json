@@ -1,0 +1,12 @@
+{
+  "name": "jquery-ui-rotatable",
+  "version": "0.0.1",
+  "main": [
+    "jquery.ui.rotatable.min.js"
+  ],
+  "ignore": [
+  ],
+  "dependencies": {
+    "jquery-ui": ">=1.11.4"
+  }
+}
